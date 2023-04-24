@@ -1,6 +1,6 @@
 {
-  "name": "@filestack/angular",
-  "version": "1.4.0",
+  "name": "@nakedcreativity/filestack-angular",
+  "version": "1.0.0",
   "description": "Angular module for filestack-js",
   "scripts": {
     "ng": "ng",
@@ -68,6 +68,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filestack/filestack-angular.git"
-  }
+    "url": "git+https://github.com/filestack/filestack-angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/filestack/filestack-angular/issues"
+  },
+  "homepage": "https://github.com/filestack/filestack-angular#readme",
+  "main": "webpack.config.js",
+  "keywords": [
+    "angular",
+    "filestack"
+  ],
+  "author": "",
+  "license": "ISC"
 }
